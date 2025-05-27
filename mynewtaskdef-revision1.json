@@ -85,6 +85,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2025-05-27T12:02:08.713Z",
-    "registeredBy": "arn:aws:iam::440744244333:root",     #You need to remove the **enableFaultInjection (in double qoute)  fals(e)  line from your task definition JSON.
+    "registeredBy": "arn:aws:iam::440744244333:root", 
     "tags": []
 }
